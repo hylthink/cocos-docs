@@ -1,6 +1,4 @@
 #Cocos-docs Contribution Guide
-==============================
-
 
 ##Preparation
 
@@ -10,7 +8,7 @@ Check out following tips before pull request:
 
 [SourceTree](http://www.sourcetreeapp.com/) is a GUI source code manage tool, which can simplify your operations with command line and easy to get used to. 
 
-[Cocos-docs Contribution Guide](./manual/framework/native/best-practice/cocos-docs-style/en.md) is a set of official convention that can lead you to write a normal cocos-doc.
+[Cocos-docs Contribution Guide](cocos-docs/manual/framework/native/best-practice/cocos-docs-style/en.md) is a set of official convention that can lead you to write a normal cocos-doc.
 
 ##Fork cocos-docs
 
