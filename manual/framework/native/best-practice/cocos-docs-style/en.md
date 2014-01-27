@@ -55,6 +55,6 @@ When you create a new document, please follow these steps:
 
 To contribute a document, you should follow github rules, the same as adding or modifying source code to any other github projects. 
 
-Cocos2d-x website server will update its cocos-docs repository each 10 minutes. So after your pull reuqest is merged into cocos-docs master branch, your will see you modifications applied on cocos2d-x website no more than 10 minutes.
+Cocos2d-x website server will update its cocos-docs repository each 10 minutes. So after your pull reuqest is merged into cocos-docs master branch, you will see your modifications applied on cocos2d-x website no more than 10 minutes.
 
     
